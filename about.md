@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Rólunk
 permalink: /about/
 ---
 
