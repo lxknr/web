@@ -1,18 +1,15 @@
 ---
 layout: page
-title: Rólunk
+title: Rólam
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+A blogot számos okból kifolyólag éreztem szükségesnek létrehozni, ezek közül néhányat szeretnék csak röviden megemlíteni.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Néhányan, akik ismernek tudják, hogy a számítástechnika világába már egész fiatalon belecsöppentem és számos területét nagyon érdekesnek tartom. Tehát leginkább a számomra izgalmas területekről fogok irományokat megosztani.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Tanulmányaimat jelen pillanatban az Óbudai Egyetem Kandó karán végzem, ahol villamosmérnöknek tanulok jelenleg. Fontosnak tartom megemlíteni, hogy ez a mérnöki tudomány rendelkezik a legtöbb szakiránnyal, illetve specializációval, ez is mutatja, hogy mennyire széleskörű tudással rendelkeznek a világ villamosmérnökei.
 
+Megemlíteném még, hogy a fizika tudományterületét is nagyon izgalmasnak tartom habár mostanában kevésbé engedi az időm, hogy mélyebben beleássam magam, de alkalmankként számos érdekes elmélettel és természeti törvényszerűséggel lehet szembefutni a fizikában. A fizika tudományának számos szintje van, így mindenki képes megtalálni a látott természeti jelenségeknek a tudományos magyarázatát a saját műveltségének megfelelő szinten, így mindenki képes megérteni, hogy mi miért és hogyan történik.
 
-[jekyll-organization]: https://github.com/jekyll
+Visszakanyarodva a lényegre még nagyon szeretném, hogy tudják az olvasók, hogy ezt az erőforrást saját magam fejlesztésére gondolva hoztam létre, így tisztelettel fogadom a kritikákat, illetve bármilyen javaslatot vagy területet amivel érdemes foglalkozni.
