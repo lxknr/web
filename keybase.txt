@@ -1,0 +1,58 @@
+alexky
+Alex K
+==================================================================
+https://keybase.io/alexky
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alexus.hu
+  * I am alexky (https://keybase.io/alexky) on keybase.
+  * I have a public key ASBzmuGupHxtDy6UCmUm7JsCh4QKjN1oq-w6zV_L-dUfUAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101dece8ff975b581089485be848148d12503d71ebcd55963edb8b34e72de4600500a",
+      "host": "keybase.io",
+      "kid": "0120739ae1aea47c6d0f2e940a6526ec9b0287840a8cdd68abec3acd5fcbf9d51f500a",
+      "uid": "108c49f3ee4decf1a705c4f2bd716019",
+      "username": "alexky"
+    },
+    "merkle_root": {
+      "ctime": 1569423817,
+      "hash": "efdf3f56f21b9facee03fc9f37a147b6bbde9fc7159fbd0aefd34d968f5fc37f6ac45b003c375e3eeefd25e20bbf124bd172934db7f83864ba15bba1ae4a9821",
+      "hash_meta": "1288261d8220566c67e3f23e145675920db6989d3ea2adba038de75ed84f8ebb",
+      "seqno": 7740332
+    },
+    "service": {
+      "entropy": "88htxCw9EXKHmNsggzqF5Nh/",
+      "hostname": "alexus.hu",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569423825,
+  "expire_in": 504576000,
+  "prev": "e6c719d70450e2c4ef2a8d19cbdd4a490ee682b998e8bed6fbad9cfc859e3f00",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgc5rhrqR8bQ8ulAplJuybAoeECozdaKvsOs1fy/nVH1AKp3BheWxvYWTESpcCCMQg5scZ1wRQ4sTvKo0Zy91KSQ7mgrmY6L7W+62c/IWePwDEIJjb6T1dd0/V5GxLd7zdeoI9Mk76ocMaIiidCcum3cjHAgHCo3NpZ8RAfIY03qjiDdrpe42Ryqmc/GkGfTsO8ZQQjLAbcIL8Z4gmlJaGdtdcQmoaf/sezo+kGS/lrMgAv3Rx1VoYnNjoAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFcIctS09xIzuqwvIwOA4cZUHXG6QuchWVrPVubNoxj8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexky
+
+==================================================================
